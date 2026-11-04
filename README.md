@@ -14,6 +14,6 @@ Technologies Used
 . GitHub
 . Python
 . Markdown
-. Objective
 
+Objective
 To practice writing clear commit messages and organizing project files using Git and GitHub.
